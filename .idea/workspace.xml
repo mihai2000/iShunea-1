@@ -31,6 +31,14 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="784f4cc4-5141-4cfc-92e1-5c730177cfab" />
+        <option name="url" value="https://github.com/BerariMihai-Dan/iShunea.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/iShunea/node_modules/jquery/dist/jquery.js" root0="FORCE_HIGHLIGHTING" />
   </component>
